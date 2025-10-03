@@ -1,0 +1,69 @@
+about:
+  name: Kayla Redwing
+  tagline: Graduate Student
+  phone: "6261234567"
+  email: kredwing@arizona.edu
+  #links:
+  #  - title: /in/mertbakir
+  #    url: https://tr.linkedin.com/in/mertbakir
+  #    icon: fab fa-linkedin
+  #  - title: mertbakir
+  #    url: https://gitlab.com/mertbakir/
+  #    icon: fab fa-gitlab
+  #  - title: mertbakir
+  #    url: https://github.com/mertbakir
+  #    icon: fab fa-github
+  details: |
+    Motivated graduate student with a bechelor's degree, concentration in Cybersecurity, seeking an employment
+    opportunity, to apply data analysis, problem solving, and communication skills to any task set forth.
+
+
+skills:
+  - groupName: Databases & Visualization
+    list:
+      - MySQL
+
+  - groupName: Data Analysis & Analytics
+    list:
+      - Python - Java - SQL
+      - HTML - CSS - Excel
+
+  - groupName: Programming & Systems
+    list:
+      - Git - Docker
+      - Linux - Windows
+
+interests:
+  - Data Analytics
+  - Computer Forensics
+  - ML and AI
+
+languages:
+  - name: English
+    level: Native
+
+# This will use the default widget: "details-list"
+awards:
+  - title: "AZSecure Scholarship for Service"
+    date: "2024"
+    subtitle: ""
+    #details: |
+    #   - add more here if you like to.
+    #   - or just comment out/delete the field.
+    links:
+      - title: #example
+        url: https://eller.arizona.edu/programs/masters/mis/mis/program/azsecure/government-service
+        icon: #fas fa-bolt
+        prefix: "My scholarship will last for 2 years so I will happily serve my government for 2 years or more. " # use quotation marks
+                 #if you want to pass the tailing space.
+
+certificates:
+#  - title: #"Supervised Learning: Regression"
+#    subtitle: #Coursera
+#    date: #"2020"
+#    link:  # This link will be on title level.
+
+#  - title: #"Supervised Learning: Classification"
+#    subtitle: #Coursera
+#    date: #"2020"
+#    link: #link

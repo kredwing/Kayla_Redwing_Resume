@@ -1,0 +1,41 @@
+- company: University of Arizona
+  roles:
+    - role: Graduate Research Assistant
+      details: |
+        I am working on research titled Social Engineering Prevention for Young Populations A Multimodal Fusion Detection Approach.
+        In this role I have conducted literature reviews in the  domains of social media phishing, multimodal classification, and
+        fusion models. I have also collected over 60,000 records from various social media sites via web scraping. I built a 
+        database of 8,000 records with 90% being not phishing occurences and 10% being phishing occurences from social media posts 
+        that contain both text and an image. I am now working on running the dataset through various fusion models. 
+      date: 08.2024 -  Present
+
+- company: Colorado State University Fort-Collins
+  page: 1
+  roles: 
+    - role: Cybersecurity Mentor
+      tools: Interpersonal Relationships
+      details: |
+        I worked with the new cybersecurity interns on their various projects, such as orchestrating meetings and communicating with 
+        heads of departmets for updating business continuity pieces, and developing a training script for a helpdesk exercise.
+      date: 06.2024 - 08.2024
+    
+    - role: Cybersecurity Intern
+      tools: Tenable Nessus, Darktrace
+      date: 06.2022 - 05.2024
+      details: |
+        I worked with Tennable Nessus to scan all of our campus subnets for vulnerabilities, and utilized Darktrace within our network 
+        to find and address critical and high vulnerabilites when I could, and put in work orders for things I was not able to address.
+
+- company: Colorado State University Pueblo
+  page: 2
+  roles:
+    - role: Athletics Bus Driver
+      tools: Commercial Driver's License with appropriate endorsements
+      details: |
+        I prioritized safety and would do a pre-trip check consisting of checking my assigned bus's engine bay for, cracks, damage, or 
+        of both air/fluids. I would conduct a check of the external condition as well as underneath condition of the bus looking for 
+        damage/obstructions, including the tire conditions. I would do an airbrake test as well as check the condition and operability
+        of all lights both internal and external, as well as the condition and operability of other equipment such as windshield wipers,
+        air conditioning, and heaters. I would communicate with the coaches about ETAs, road conditions, and itineraries. I would drive 
+        both coaches and athletes to and from their destinations safely and conduct post trip inspections at every destination.
+      date: 09.2021 - 05.2024

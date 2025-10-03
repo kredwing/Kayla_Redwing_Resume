@@ -1,0 +1,6 @@
+[submodule "kredwingresume/temes/resume-a4"]
+	path = kredwingresume/temes/resume-a4
+	url = https://gitlab.com/mertbakir/resume-a4.git
+[submodule "kredwingresume/themes/resume-a4"]
+	path = kredwingresume/themes/resume-a4
+	url = https://gitlab.com/mertbakir/resume-a4.git

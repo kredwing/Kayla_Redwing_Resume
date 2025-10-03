@@ -1,0 +1,19 @@
+projects:
+- title: "Social Engineering Prevention for Young Populations: A Multimodal Fusion Detection Approach"
+  subtitle: "University of Arizona"
+  date: "2024-2026"
+  details: |
+    This is my current research project where I am attempting to figure out which deep learning models we can fuse 
+    together to accurately decide on whether a social media post is a regular (not phishing) post, or a phishing
+    post.
+
+#- title: #"Resume - A4"
+#  subtitle: #"mertbakir.gitlab.io/resume"
+#  link: #"https://gitlab.com/mertbakir/resume-a4"
+#  date: #"2020"
+#  details: |
+    #Bring CI/CD to your resume using YAML and Git."
+#  links:
+#  - title: #Available in GitLab
+#    url: #https://gitlab.com/mertbakir/resume-a4
+#    icon: #fab fa-gitlab
